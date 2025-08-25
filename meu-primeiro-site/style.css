@@ -1,0 +1,16 @@
+body {
+    font-family: Arial;
+    margin: 20px;
+    background-color: #1e033c;
+    color: rgb(17, 125, 28);
+}
+p {
+    color: brown;
+}
+blockquote {
+    color: aqua;
+}
+mark {
+    background-color: #5ae3f0e0;
+    color: rgb(0, 0, 0);
+}
