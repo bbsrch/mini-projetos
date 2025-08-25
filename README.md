@@ -1,0 +1,2 @@
+# mini-projetos
+Projetos pequenininhos 🤏
