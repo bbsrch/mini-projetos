@@ -1,5 +1,15 @@
-# Mini Projetos
-Aqui nesse repositório você vai encontrar projetos, jogos e sistemas de diversas linguagens e ferramentas.
+# 🚀 Mini Projetos
 
-São projetos pequenos que não vi a necessidade de criar um repositório só para ele, então eles ficam aglomerados aqui.
-🤏
+## 📝 Descrição
+Este repositório contém diversos **mini projetos**, criados para praticar lógica de programação, estruturas de dados e desenvolvimento de scripts interativos.  
+Cada projeto é independente e pode ser executado diretamente pelo terminal.
+
+---
+
+## 🔹 Projetos Inclusos
+- 🎮 **Jogo da Forca** – Um jogo interativo de adivinhar palavras com desenho da forca e histórico de letras.  
+- 🔒 **Gerador de Senhas Seguras** – Script para criar senhas aleatórias fortes.   
+- 📊 **Mini Calculadoras** – Pequenos scripts para operações matemáticas e estatísticas.  
+*(E outros projetos que serão adicionados futuramente)*
+
+---
