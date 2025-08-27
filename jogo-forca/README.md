@@ -1,7 +1,7 @@
 # 🎮 Jogo da Forca em Python 🪢
 
 ## 📝 Descrição
-Este é um **jogo da forca** desenvolvido, em Python (por mim mesmo!), onde o jogador deve adivinhar uma palavra escolhida aleatoriamente de uma lista.  
+Este é um **jogo da forca** desenvolvido, em Python, onde o jogador deve adivinhar uma palavra escolhida aleatoriamente de uma lista.  
 O jogo exibe o progresso das letras, o histórico de tentativas e a forca é desenhada conforme os erros cometidos.  
 O terminal utiliza cores para tornar a experiência mais **interativa**.
 
