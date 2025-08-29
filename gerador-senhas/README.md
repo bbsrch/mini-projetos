@@ -1,4 +1,4 @@
-# 🔐 Gerador de Senhas Seguras  
+# 🔐 Gerador de Senhas Seguras em Python
 
 Projeto em Python para gerar senhas fortes, com opções de personalização para o usuário.  
 As senhas podem incluir letras maiúsculas, minúsculas, números e símbolos, além de serem salvas automaticamente em um arquivo `.txt`.  
@@ -12,7 +12,6 @@ As senhas podem incluir letras maiúsculas, minúsculas, números e símbolos, a
 - Opção de incluir ou não **símbolos**  
 - Senhas exibidas **caractere por caractere** com efeito visual  
 - Senhas salvas em um arquivo `senhas.txt`  
-- Estrutura organizada em **módulos**  
 
 ---
 
@@ -28,3 +27,5 @@ Senha 1: X9aLpQ7hRw
 Senha 2: mU6bDz1KqT
 
 Senhas geradas com sucesso e guardadas no arquivo "senhas.txt"
+
+
