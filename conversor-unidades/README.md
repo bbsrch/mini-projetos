@@ -1,4 +1,4 @@
-# 🔄 Conversor de Unidades
+# 🔄 Conversor de Unidades em Python
 
 Este repositório contém **mini projetos de conversores de unidades em Python**, desenvolvidos em um único arquivo para praticar programação e lógica.  
 O objetivo é facilitar a conversão entre diferentes sistemas de medida de forma simples e interativa pelo terminal.  
