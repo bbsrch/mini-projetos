@@ -1,0 +1,15 @@
+# 📝 Lista de Tarefas em Python
+
+Um gerenciador de tarefas simples feito em **Python**, que permite adicionar, visualizar e remover tarefas, salvando tudo em um arquivo **JSON** para consultas futuras. É um projeto básico que usei para praticar manipulação de arquivos e loops. 🚀
+
+---
+
+## 🔹 Funcionalidades
+
+- Adicionar tarefas ✅  
+- Visualizar tarefas com efeito de listagem ⏳  
+- Remover tarefas com validação de índice ❌  
+- Salvar e carregar tarefas automaticamente 💾  
+- Interface simples e interativa 🎨
+
+---
