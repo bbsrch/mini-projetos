@@ -12,7 +12,6 @@ As senhas podem incluir letras maiúsculas, minúsculas, números e símbolos, a
 - Opção de incluir ou não **símbolos**  
 - Senhas exibidas **caractere por caractere** com efeito visual  
 - Senhas salvas em um arquivo `senhas.txt`  
-- Estrutura organizada em **módulos**  
 
 ---
 
@@ -28,4 +27,5 @@ Senha 1: X9aLpQ7hRw
 Senha 2: mU6bDz1KqT
 
 Senhas geradas com sucesso e guardadas no arquivo "senhas.txt"
+
 
