@@ -1,0 +1,17 @@
+[
+    {
+        "valor": 273.0,
+        "categoria": "Faculdade",
+        "data": "10/09/2025"
+    },
+    {
+        "valor": 450.0,
+        "categoria": "Transporte",
+        "data": "01/12/2026"
+    },
+    {
+        "valor": 789.0,
+        "categoria": "Comida",
+        "data": "07/05/2030"
+    }
+]
